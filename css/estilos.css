@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+#menu a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carousel-indicators {
+    max-height: 39 rem;
+
+}
+
+#foto {
+    margin-top: 20px;
+    background: #edf2f4;
+}
+
+
+h6{
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: normal;
+}
+
+h1{
+    font-size: 30px;
+    line-height: 1.5;
+    letter-spacing: -.2px;
+    color: white;
+   
+
+}
+
+h1 strong{
+    color: #0000FF;
+}
+
+h2 {
+    color: #474545;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+
+
+.experience-container, .info-container{
+    background: #edf2f4;
+    padding: 20px;
+}
+
+.experience-job-company, .experience-date{
+    margin: 10px 0;
+}
+.experience-description{
+    font-size: 20px;
+}
+
+.experience strong{
+    font-family: 'Montserrat', sans-serif; 
+}
+.experience, .info{
+    
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 20px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.experience-job-name{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.experience-details, .info-details{
+    width: 500px;
+    height: inherit;
+    display: inline-block;
+}
+.experience-imageContainer{
+    display: inline-block;
+}
+
+#contenedor-formulario{
+
+background: white;
+padding: 20px;
+border-radius:5px;
+height: inherit
+
+
+}
+
+#titulo-formulario{
+    margin-top: 20px;
+    color: #3f3f3f;
+    height: inherit
+}
+
+#boton{
+    border: 1px solid #3f3f3f;
+    margin-bottom: 20px;
+    height: inherit
+}
+
+footer{
+    background: #1b2a4e;
+    min-height: 100px;
+
+}
+
+footer p{
+    background: #1b2a4e;
+    color:#f3f3f3;
+    text-align: center;
+    
+}
+
+#iconos {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+
+#gracias { 
+    margin-top: 20px;
+    color: #3f3f3f;
+    height: inherit
+}
